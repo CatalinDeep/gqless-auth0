@@ -1,4 +1,4 @@
-#run "yarn install"
-#add the graphql host URL in "gqless.config.cjs"
-#run "yarn generate"
-#add the Auth0 domain and clientId in "main.tsx"
+1. run "yarn install"
+2. add the graphql host URL in "gqless.config.cjs"
+3. run "yarn generate"
+4. add the Auth0 domain and clientId in "main.tsx"
