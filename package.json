@@ -1,0 +1,25 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview",
+    "generate": "gqless generate"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^1.5.0",
+    "@gqless/react": "^2.0.15",
+    "gqless": "^2.0.14",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "devDependencies": {
+    "@gqless/cli": "^2.0.16",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@vitejs/plugin-react-refresh": "^1.3.1",
+    "graphql": "^15.5.1",
+    "typescript": "^4.3.2",
+    "vite": "^2.4.0"
+  }
+}
